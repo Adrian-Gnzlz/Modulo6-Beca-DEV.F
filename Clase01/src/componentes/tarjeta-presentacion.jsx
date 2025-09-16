@@ -4,7 +4,7 @@ function TarjetaPresentacion({ nombre, profesion, mensaje }) {
         <div className="tarjeta-encabezado">
             <img
             className="tarjeta-foto"
-            src="https://via.placeholder.com/96"
+            src="https://www.redaccionmedica.com/images/destacados/ana-perez-1091.jpg"
             alt={`Foto de ${nombre}`}
             />
             <div>
